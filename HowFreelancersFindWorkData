@@ -1,0 +1,1 @@
+HowFreelancersFindWorkData <- read_excel("~/Downloads/Relevant Gig Economy Data (10).xlsx", sheet = "How Freelancers Find Work")
